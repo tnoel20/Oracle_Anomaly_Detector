@@ -1,0 +1,3 @@
+Example Use Case:
+
+    python3 run_oracle.py --classifier 'random_forest' --dataset_name 'cifar10' --loss_fn_name 'cross_entropy' --trainX_filename 'ZTrainX.npy' --trainy_filename 'ZTrainy.npy' --testX_filename 'ZTestX.npy' --testy_filename 'ZTesty.npy' 
